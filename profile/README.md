@@ -22,10 +22,10 @@ production taught us the hard way.
 
 | Repository | What it is |
 |---|---|
-| **[engineering-handbook](#)** | Lessons validated in production. Each one: what failed, why, the correct pattern, and how to verify it. Written after the incident, not before. |
-| **[case-studies](#)** | Real systems we designed and operate, described by problem and architecture. Identified by sector, geography and year only — never by name. |
-| **[reference-architectures](#)** | Diagrams and ADRs for patterns we have shipped more than once. No code — just the reasoning. |
-| **[toolkit](#)** | A small number of genuinely reusable utilities. MIT, tested, CI green. |
+| **[engineering-handbook](https://github.com/suarez-lab/engineering-handbook)** | Lessons validated in production. Each one: what failed, why, the correct pattern, and how to verify it. Written after the incident, not before. |
+| **[case-studies](https://github.com/suarez-lab/case-studies)** | Real systems we designed and operate, described by problem and architecture. Identified by sector, geography and year only — never by name. |
+| **[reference-architectures](https://github.com/suarez-lab/reference-architectures)** | Diagrams and ADRs for patterns we have shipped more than once. No code — just the reasoning. |
+| **[toolkit](https://github.com/suarez-lab/toolkit)** | A small number of genuinely reusable utilities. MIT, tested, CI green. |
 
 ## How to read this in five minutes
 
@@ -50,8 +50,8 @@ abstract, so that the pattern is useful to you and useless to a competitor of th
 
 | | |
 |---|---|
-| **[Aníbal Suárez Hernández](#)** | Electronic engineer. Systems architecture, cloud cost engineering, AI governance, delivery. Has carried projects from proposal to production and owned the number at the bottom. |
-| **[Gabriel Suárez](#)** | Computer Science & Mathematics (UPM), MSc Advanced Mathematics (UPM). Modelling, algorithms, complexity, machine learning. The layer that answers *why does this work, and what is the bound*. |
+| **[Aníbal Suárez Hernández](https://github.com/suarez-lab/profiles/blob/main/anibal.md)** | Electronic engineer. Systems architecture, cloud cost engineering, AI governance, delivery. Has carried projects from proposal to production and owned the number at the bottom. |
+| **[Gabriel Suárez](https://github.com/suarez-lab/profiles/blob/main/gabriel.md)** | Computer Science & Mathematics (UPM), MSc Advanced Mathematics (UPM). Modelling, algorithms, complexity, machine learning. The layer that answers *why does this work, and what is the bound*. |
 
 We work well separately and better together: one of us asks what the system costs and how
 it stays up, the other asks whether it is correct. Hire either.
