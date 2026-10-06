@@ -26,7 +26,7 @@ las lecciones que producción nos enseñó por las malas.
 | **[engineering-handbook](https://github.com/suarez-lab/engineering-handbook)** | Lecciones validadas en producción. Cada una: qué falló, por qué, el patrón correcto y cómo verificarlo. Escritas después del incidente, no antes. |
 | **[case-studies](https://github.com/suarez-lab/case-studies)** | Sistemas reales que diseñamos y operamos, descritos por problema y arquitectura. Se identifican solo por sector, geografía y año — nunca por nombre. |
 | **[reference-architectures](https://github.com/suarez-lab/reference-architectures)** | Diagramas y ADRs de patrones que hemos llevado a producción más de una vez. Sin código — solo el razonamiento. |
-| **[toolkit](https://github.com/suarez-lab/toolkit)** | Unas pocas utilidades genuinamente reutilizables. MIT, con tests, CI en verde. |
+| **[toolkit](https://github.com/suarez-lab/toolkit)** | Inventario de tecnologías contado a partir de manifiestos de dependencias. |
 
 ## Cómo leer esto en cinco minutos
 
@@ -34,7 +34,7 @@ las lecciones que producción nos enseñó por las malas.
    sistemas o solo los hemos construido.
 2. Abre un **caso de estudio** de tu dominio. Eso te dice cómo razonamos ante las
    restricciones.
-3. Ignora el resto.
+3. Para valorar el código y el trabajo académico de Gabriel, abre su [portafolio de proyectos públicos](https://github.com/Gabotelli).
 
 ## Qué publicamos y qué no
 
@@ -52,7 +52,7 @@ abstracto, para que el patrón te sirva a ti y no le sirva a un competidor suyo.
 | | |
 |---|---|
 | **[Aníbal Suárez Hernández](https://github.com/suarez-lab/profiles/blob/main/anibal.md)** | Ingeniero electrónico. Arquitectura de sistemas, ingeniería de costes en cloud, gobernanza de IA, entrega. Ha llevado proyectos de la propuesta a producción y ha respondido por el número de abajo. |
-| **[Gabriel Suárez](https://github.com/suarez-lab/profiles/blob/main/gabriel.md)** | Ingeniería Informática y Matemáticas (UPM), Máster en Matemáticas Avanzadas (UPM). Modelización, algoritmos, complejidad, machine learning. La capa que responde a *por qué esto funciona y cuál es la cota*. |
+| **[Gabriel Suárez](https://github.com/suarez-lab/profiles/blob/main/gabriel.es.md)** | Grado en Matemáticas e Informática (UPM), Máster Universitario en Matemáticas Avanzadas (UPM). AEM, Java, Python, modelización matemática y aprendizaje automático. [Proyectos académicos y de software públicos](https://github.com/Gabotelli). |
 
 Funcionamos bien por separado y mejor juntos: uno pregunta cuánto cuesta el sistema y cómo
 se mantiene en pie, el otro pregunta si es correcto. Contrata a cualquiera de los dos.
