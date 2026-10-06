@@ -25,7 +25,7 @@ production taught us the hard way.
 | **[engineering-handbook](https://github.com/suarez-lab/engineering-handbook)** | Lessons validated in production. Each one: what failed, why, the correct pattern, and how to verify it. Written after the incident, not before. |
 | **[case-studies](https://github.com/suarez-lab/case-studies)** | Real systems we designed and operate, described by problem and architecture. Identified by sector, geography and year only — never by name. |
 | **[reference-architectures](https://github.com/suarez-lab/reference-architectures)** | Diagrams and ADRs for patterns we have shipped more than once. No code — just the reasoning. |
-| **[toolkit](https://github.com/suarez-lab/toolkit)** | A small number of genuinely reusable utilities. MIT, tested, CI green. |
+| **[toolkit](https://github.com/suarez-lab/toolkit)** | Technology inventory counted from dependency manifests. |
 
 ## How to read this in five minutes
 
@@ -33,7 +33,7 @@ production taught us the hard way.
    operated systems or only built them.
 2. Open one **case study** in your domain. That tells you how we reason about
    constraints.
-3. Ignore the rest.
+3. To assess Gabriel's code and academic work, open his [public project portfolio](https://github.com/Gabotelli).
 
 ## What we publish, and what we do not
 
@@ -51,7 +51,7 @@ abstract, so that the pattern is useful to you and useless to a competitor of th
 | | |
 |---|---|
 | **[Aníbal Suárez Hernández](https://github.com/suarez-lab/profiles/blob/main/anibal.md)** | Electronic engineer. Systems architecture, cloud cost engineering, AI governance, delivery. Has carried projects from proposal to production and owned the number at the bottom. |
-| **[Gabriel Suárez](https://github.com/suarez-lab/profiles/blob/main/gabriel.md)** | Computer Science & Mathematics (UPM), MSc Advanced Mathematics (UPM). Modelling, algorithms, complexity, machine learning. The layer that answers *why does this work, and what is the bound*. |
+| **[Gabriel Suárez](https://github.com/suarez-lab/profiles/blob/main/gabriel.md)** | BSc Mathematics and Computing (UPM), MSc Advanced Mathematics (UPM). AEM, Java, Python, mathematical modelling and machine learning. [Public academic and software projects](https://github.com/Gabotelli). |
 
 We work well separately and better together: one of us asks what the system costs and how
 it stays up, the other asks whether it is correct. Hire either.
